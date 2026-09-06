@@ -1,0 +1,9 @@
+# 自动化运行产生的临时文件：不提交候选表、日志和数据备份。
+workspace/candidates/*
+!workspace/candidates/.gitkeep
+workspace/logs/*
+!workspace/logs/.gitkeep
+workspace/backups/*
+!workspace/backups/.gitkeep
+workspace/articles/drafts/*
+!workspace/articles/drafts/.gitkeep
